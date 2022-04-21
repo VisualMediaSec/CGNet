@@ -1,4 +1,6 @@
-### CGNet Dataset
+### CGNet: Detecting computer-generated images based on transfer learning with attention module
+
+### Dataset
 
 Download three CG image detection datasets:
 - `DSTok`: 4850 natural images and 4850 CG images from the [DSTOK](https://www.ic.unicamp.br/~rocha/pub/communications).
